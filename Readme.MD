@@ -6,3 +6,13 @@ Docente: Petrucio Ricardo Tavares de Medeiros
 Discentes:
 Ana Jackeline Alves da Silva,
 Brendo Duarte Bezerra.
+
+---------------------------------------------------------------------
+
+FEDERAL RURAL UNIVERSITY OF SEMI-ARID - UFERSA 
+MULTIDISCIPLINARY CAMPUS OF PAU DOS FERROS - CMPF 
+Discipline: Computer Architecture and Organization 
+Teacher: Petrucio Ricardo Tavares de Medeiros 
+
+Students: Ana Jackeline Alves da Silva, 
+Brendo Duarte Bezerra.
