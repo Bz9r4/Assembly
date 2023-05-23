@@ -1,6 +1,6 @@
-UNIVERSIDADE FEDERAL RURAL DO SEMI-¡RIDO ñ UFERSA
+UNIVERSIDADE FEDERAL RURAL DO SEMI-√ÅRIDO ‚Äì UFERSA
 CAMPUS MULTIDISCIPLINAR DE PAU DOS FERROS - CMPF
-Disciplina: Arquitetura e OrganizaÁ„o de Computadores
+Disciplina: Arquitetura e Organiza√ß√£o de Computadores
 Docente: Petrucio Ricardo Tavares de Medeiros
 
 Discentes:
